@@ -8,7 +8,7 @@ Aqui você encontra os *notebooks* e códigos Python do meu blog. Cada arquivo d
 
 ### Tutoriais / Tutorials:
 
-* **Calculando comissão do Setor de Cobrança de uma Imobiliária** *(libs: selenium, pandas, datetime, time, pathlib, os, shutil, yagmail)
+* **Calculando comissão do Setor de Cobrança de uma Imobiliária** *(libs: selenium, pandas, datetime, time, pathlib, os, shutil, yagmail) [add link]
 
 ### Sobre mim:
 
