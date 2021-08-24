@@ -1,8 +1,8 @@
 # Igor Seixas
  <div>
   <a href="https://github.com/igor-seixas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-seixas&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="python" height="175px" width="450px" target="_blank" src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47o02vu9a3b61lr2dpuo6bhg9era2nlfilyv8fuqpr&rid=giphy.gif&ct=g">  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igor-seixas&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="python" height="150px" width="400px" target="_blank" src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47o02vu9a3b61lr2dpuo6bhg9era2nlfilyv8fuqpr&rid=giphy.gif&ct=g">  
     </div>
   
   
