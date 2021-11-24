@@ -12,6 +12,7 @@ Aqui você encontra os *notebooks* e códigos Python do meu blog. Cada arquivo d
 
 ### Tutoriais / Tutorials:
 
+* **Como criar um modelo de previsão de preços de imóveis no AirBNB** *(libs: pandas, numpy, seaborn, matplotlib, plotly, ast, sklearn, joblib e streamlit)* https://bit.ly/3cGO5D8
 * **Calculando comissão do Setor de Cobrança de uma Imobiliária** *(libs: selenium, pandas, datetime, time, pathlib, os, shutil e yagmail)* https://bit.ly/3ivz8rd
 * **Verificando a quantidade de imóveis disponíveis para locação nas imobiliárias** *(libs: selenium, pandas, datetime, time, matplotlib e yagmail)* https://bit.ly/3j8CBw5
 
@@ -19,7 +20,7 @@ Aqui você encontra os *notebooks* e códigos Python do meu blog. Cada arquivo d
 
 ### Sobre mim:
 
-  Sou Advogado especialista em Direito Imobiliário por formação, Sócio de uma Imobiliária e de uma Administradora de Condomínios, ambas em Aracaju/SE. 
+  Sou Advogado especialista em Direito Imobiliário por formação, sócio de uma Imobiliária e de uma startup, ambas em Aracaju/SE. 
   
   Dentro da área de tecnologia tenho desenvolvido *inicialmente* automações capazes de otimizar o trabalho manual das equipes internas das empresas.
 
